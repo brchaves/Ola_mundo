@@ -53,3 +53,30 @@ Lista de terefas
 - [ ] Não concluido
 - [ ] Não concluido
 
+---
+
+[Link](https://github.com/brchaves)
+[foto](https://avatars1.githubusercontent.com/u/9919?s=200&v=4)
+
+####Tabela
+
+Num | Nome | Nota
+---|---|---
+1 | Bruno | 8
+2 | Stephane | 10
+
+---
+
+não sei como funciona o codigo ´System.out.println´ em java
+
+olha meu programa em python
+
+```
+num = int(input('digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é IMPAR')
+```
+
+> Sitação a alguen
